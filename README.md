@@ -1,1 +1,3 @@
-# toksittechYTaltyapi
+Bu Alt Yapı Tamamen Hüseyin Bahar'a Aittir...
+Youtube=https://www.youtube.com/channel/UCL1iQQAmSLiMuO9x6Hf6RUQ
+Discord=https://discord.gg/EvKRskQY
