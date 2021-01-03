@@ -12,7 +12,7 @@ client.on("guildMemberAdd", async member => {
     await client.channels
       .get("794964054032515073")////////hoş geldin mesajının atılacağı kanal
       .send(
-        `:tada: Sunucumuza Hoşgeldin **${member}** 
+        `:tada: SelamınAleyküm HoşGeldin **${member}** 
 
 :tada: Seninle beraber **${
 member.guild.memberCount
@@ -26,7 +26,8 @@ member.guild.memberCount
         }
 \n:tada: <@&794565248497483787> Rolündeki Yetkililer Seninle İlgilenecektir.`,////kayıt sorumlusu idsini giriceksiniz 
         new Discord.Attachment(
-          "https://media.giphy.com/media/6pfEK1odbmcNi/giphy.gif"/////bunu silebilir ya da başka bir gif ile değiştirbilirsiniz
+          "https://cdn.discordapp.com/attachments/621045237137276929/623239032536825919/giris.png
+          "/////bunu silebilir ya da başka bir gif ile değiştirbilirsiniz
         )
       );
   } catch (err) {
